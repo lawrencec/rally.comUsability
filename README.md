@@ -27,6 +27,8 @@ Chrome
 ------
 Drag rally.user.js onto Chrome and follow instructions.
 
+Firefox and Chrome
+------
 
 Use rally.com.
 
